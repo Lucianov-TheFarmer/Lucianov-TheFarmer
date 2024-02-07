@@ -12,10 +12,9 @@
 <br>
 
 Não se esqueça de conferir meus projetos!
-<br>
+<br> <br>
 
 ## Sobre mim:
-<br>
 Meu nome é Vitor, tenho 20 anos e sou estudante de agronomia na Universidade Federal de Lavras (média geral do curso: 84,76). Atualmente estou no sétimo período.<br>
 
 ### Hard Skills:
@@ -51,7 +50,7 @@ Identificação de transcritos com dados do Coffee Genome Hub e UniprotKB. <br> 
 Análise de enriquecimento de termos ontológicos (SEA). <br> <br>
 Predição de rotas metabólicas. <br> <br>
 Desenvolvimento de um classificador utilizando Random Forest para identificação de erosão laminar e em sulcos, com imagens obtidas em VANT de solos do Mali. <br> <br>
-Desenvolvimento de uma aplicação web utilizando MongoDB, Express, Vue.js e Node.js, que realiza operações de CRUD, autenticação, nodemailing, processamento de imagens e criptografia. <br> <br>
+Desenvolvimento de uma aplicação web utilizando MongoDB, Express, Vue.js e Node.js, que realiza operações de CRUD, autenticação, nodemailing, processamento de imagens e criptografia. <br> 
 <br>
 
 ## Idiomas:
@@ -59,4 +58,4 @@ Desenvolvimento de uma aplicação web utilizando MongoDB, Express, Vue.js e Nod
 Sou fluente em português e possuo inglês avançado.
 <br>
 
-Fique à vontade para explorar meus projetos e entrar em contato comigo! Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+Fique à vontade para explorar meus projetos e entrar em contato! Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
