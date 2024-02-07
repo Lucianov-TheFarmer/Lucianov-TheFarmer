@@ -1,4 +1,4 @@
-# Olá! Seja muito bem-vindo(a) ao meu repositório!
+# Oi! Seja muito bem-vindo(a) ao meu repositório!
 
 <br>
 
