@@ -18,7 +18,7 @@ Não se esqueça de conferir meus projetos!
 
 ## Sobre mim:
 
-Oi! Meu nome é Vitor, tenho 20 anos e sou estudante de agronomia na Universidade Federal de Lavras (média geral do curso: 84,76). Atualmente estou no sétimo período.<br>
+Meu nome é Vitor, tenho 20 anos e sou estudante de agronomia na Universidade Federal de Lavras (média geral do curso: 84,76). Atualmente estou no sétimo período.<br>
 
 ### Hard Skills:
 
