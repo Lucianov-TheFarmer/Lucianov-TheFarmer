@@ -7,7 +7,7 @@
 📁 Já atuei em projetos de bioinformática, geoprocessamento, desenvolvimento web (BackEnd e FrontEnd), automação, web scrapping, ciência de dados e machine learning <br>
 📚 Atualmente curso agronomia na Universidade Federal de Lavras <br>
 🎲 Sou bolsista de Iniciação Científica (PIBIC/CNPq) no Laboratório de Fisiologia Vegetal de Plantas <br>
-💻 Sou gerente de recrutamento na Comp Júnior <br>
+💻 Sou assessor de vendas na Comp Júnior <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para vitor.silva7@estudante.ufla.br <br>
 <br>
 
@@ -15,7 +15,7 @@ Não se esqueça de conferir meus projetos!
 <br> <br>
 
 ## Sobre mim:
-Meu nome é Vitor, tenho 20 anos e sou estudante de agronomia na Universidade Federal de Lavras (média geral do curso: 84,76). Atualmente estou no sétimo período.<br>
+Meu nome é Vitor, tenho 20 anos e sou estudante de agronomia na Universidade Federal de Lavras (média geral do curso: 84,76). Atualmente estou no oitavo período.<br>
 
 ### Hard Skills:
 
